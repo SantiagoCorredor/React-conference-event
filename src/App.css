@@ -34,9 +34,9 @@
 }
 
 .get-started-btn {
-  background-color:#EFC16B;
+  background-color:#e49285;
   /* color: white; */
-  color: black;
+  color: white;
   border: none;
   padding: 20px 40px;
   font-size: 19px;
@@ -45,7 +45,7 @@
 }
 
 .get-started-btn:hover {
-  background-color: #c1974a;
+  background-color: #e49285;
 }
 
 .getstarted_btn {
@@ -75,15 +75,13 @@
   font-size: 20px;
   display: flex;
   flex-direction: column;
-  gap: 30px;
-  text-align: justify;
+  gap: 20px;
+  text-align: left;
 }
 
 .aboutus_container p {
   font-size: 23px;
   font-weight: 700;
-  
-
 }
 
 .first_page_name_btn {
@@ -111,7 +109,7 @@
   left: 0;
   width: 100%;
   height: 100vh;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: #ffffffcc;
   transition: top 0.5s ease;
   overflow-y: auto;
   z-index: 2;
